@@ -20,4 +20,5 @@ Built With:
 Status:
 - Still in development
 
-Author: Nicholle Perkins (https://github.com/Nicholle0512)
+Author: 
+Nicholle Perkins (https://github.com/Nicholle0512)
